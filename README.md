@@ -1,4 +1,4 @@
-# 💼 Andi's Personal Developer Portfolio
+# 💼 Embrace Personal Developer Portfolio
 
 An interactive and fully responsive personal portfolio website showcasing developer achievements, skill sets, background timelines, and completed projects.
 
